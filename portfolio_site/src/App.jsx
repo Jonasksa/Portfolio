@@ -18,8 +18,8 @@ const projetos = [
     imagem: '/Portfolio/images/projeto2.png',
     titulo: 'Dashboard Ipeadata',
     descricao: 'Projeto de engenharia de dados com foco em visualização interativa usando Streamlit. Os dados foram coletados via API e arquivos CSV, tratados com Python e pandas, e organizados para análises temáticas em uma aplicação web acessível.',
-    linkGit: 'https://github.com/JNA-Systems/Ipeadata',
-    linkSite: 'https://dadosipeadata.streamlit.app/',
+    linkGit: 'https://dashboardipeadata.streamlit.app/',
+    linkSite: 'https://github.com/jnasystems/Ipeadata',
   },
   {
     imagem: '/Portfolio/images/projeto3.jpg',
