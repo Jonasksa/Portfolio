@@ -11,8 +11,8 @@ const projetos = [
     imagem: '/Portfolio/images/projeto1.jpg',
     titulo: 'CryptoPrice Dashboard',
     descricao: 'Dashboard interativo para acompanhar em tempo real a performance das 10 principais criptomoedas, com gráficos dinâmicos, rankings e análises visuais de mercado.',
-    linkGit: 'https://github.com/Jonasksa/CryptoPrice-Dashboard',
-    linkSite: 'https://cryptosales.streamlit.app/',
+    linkGit: 'https://github.com/jnasystems/Crypto',
+    linkSite: 'https://cryptomoedas.streamlit.app/',
   },
   {
     imagem: '/Portfolio/images/projeto2.png',
