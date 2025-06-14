@@ -11,14 +11,14 @@ const projetos = [
     imagem: '/Portfolio/images/projeto1.jpg',
     titulo: 'CryptoPrice Dashboard',
     descricao: 'Dashboard interativo para acompanhar em tempo real a performance das 10 principais criptomoedas, com gráficos dinâmicos, rankings e análises visuais de mercado.',
-    linkGit: 'https://github.com/jnasystems/Crypto',
-    linkSite: 'https://cryptomoedas.streamlit.app/',
+    linkGit: 'https://github.com/JNA-System/Crypto-Moedas',
+    linkSite: 'https://cryptomoedasdashboard.streamlit.app/',
   },
   {
     imagem: '/Portfolio/images/projeto2.png',
     titulo: 'Dashboard Ipeadata',
     descricao: 'Projeto de engenharia de dados com foco em visualização interativa usando Streamlit. Os dados foram coletados via API e arquivos CSV, tratados com Python e pandas, e organizados para análises temáticas em uma aplicação web acessível.',
-    linkGit: 'https://github.com/jnasystems/Ipeadata',
+    linkGit: 'https://github.com/JNA-System/IpeaData',
     linkSite: 'https://dashboardipeadata.streamlit.app/',
   },
   {
