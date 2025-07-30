@@ -109,11 +109,12 @@ export default function App() {
               transition={{ delay: 0.5, duration: 1 }}
             >
               👋 Olá, sou <strong>Jonas Kasakewitch</strong>,<br /><br />
-              <strong>Engenheiro de Dados</strong> com forte atuação em ambientes <strong>multicloud (AWS, Azure e GCP)</strong> e entusiasta na criação de <strong>pipelines escaláveis</strong>, <strong>automação de processos</strong> e integração de dados <strong>estruturados</strong> e <strong>não estruturados</strong>. Atualmente trabalho com engenharia de dados na <strong>DataVerse</strong>, além de cursar o 7º período de <strong>Sistemas de Informação</strong> na Faculdade LaSalle de Niterói.<br /><br />
+              <strong>Engenheiro de Dados</strong> com experiência sólida em ambientes <strong>multicloud (GCP, Azure e AWS)</strong> e paixão por construir <strong>pipelines escaláveis</strong>, <strong>automação de processos</strong> e integrar dados <strong>estruturados e não estruturados</strong>. Atualmente atuo na <strong>DataVerse</strong>, onde desenvolvo soluções que impactam diretamente a tomada de decisão dos clientes.<br /><br />
 
-              Meu portfólio reúne projetos que exploram desde a automação com <strong>Python</strong> e <strong>Shell Script</strong>, até soluções robustas com <strong>PySpark</strong>, bancos de dados <strong>Oracle</strong> e ferramentas ETL. Também atuo na criação de <strong>dashboards analíticos</strong> e <strong>RPA</strong>, com foco em <strong>eficiência</strong>, <strong>qualidade de dados</strong> e <strong>insights estratégicos</strong>.<br /><br />
+              Meu portfólio reúne projetos que vão desde automações com <strong>Python</strong> e <strong>Shell Script</strong>, até o desenvolvimento de pipelines robustas usando <strong>PySpark</strong>, bancos de dados como <strong>Oracle</strong> e ferramentas ETL consolidadas. Também crio <strong>dashboards analíticos</strong> e <strong>RPA</strong>, sempre focado em <strong>eficiência</strong>, <strong>qualidade dos dados</strong> e geração de <strong>insights estratégicos</strong> para os negócios.<br /><br />
 
-              Tenho perfil <strong>analítico</strong>, <strong>colaborativo</strong> e <strong>orientado a resultados</strong>, sempre buscando aliar teoria e prática para entregar soluções que geram <strong>valor real para o negócio</strong>. Neste espaço, compartilho algumas das soluções que desenvolvi — sinta-se à vontade para explorar!
+              Tenho um perfil <strong>analítico, colaborativo e orientado a resultados</strong>, buscando sempre unir teoria e prática para entregar soluções que geram <strong>valor real para o negócio</strong>. Aqui compartilho alguns dos projetos que desenvolvi — fique à vontade para explorar!
+
             </motion.p>
           </div>
 
