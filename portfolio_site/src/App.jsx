@@ -21,20 +21,20 @@ const projetos = [
     linkGit: 'https://github.com/JNA-System/IpeaData',
     linkSite: 'https://dashboardipeadata.streamlit.app/',
   },
-  {
-    imagem: '/Portfolio/images/projeto3.jpg',
-    titulo: 'Integração com APIs REST',
-    descricao: 'Desenvolvimento de pipelines com chamadas REST automatizadas, autenticação via token e orquestração com Airflow.',
-    linkGit: 'https://github.com/seuusuario/projeto3',
-    linkSite: 'https://seudominio.com/apis',
-  },
-  {
-    imagem: '/Portfolio/images/projeto3.jpg',
-    titulo: 'Integração com APIs REST',
-    descricao: 'Desenvolvimento de pipelines com chamadas REST automatizadas, autenticação via token e orquestração com Airflow.',
-    linkGit: 'https://github.com/seuusuario/projeto4',
-    linkSite: 'https://seudominio.com/api2',
-  },
+  // {
+  //   imagem: '/Portfolio/images/projeto3.jpg',
+  //   titulo: 'Em Breve',
+  //   descricao: 'Em Breve',
+  //   linkGit: 'https://github.com/seuusuario/projeto3',
+  //   linkSite: 'https://seudominio.com/apis',
+  // },
+  // {
+  //   imagem: '/Portfolio/images/projeto3.jpg',
+  //   titulo: 'Em Breve',
+  //   descricao: 'Em Breve',
+  //   linkGit: 'https://github.com/seuusuario/projeto4',
+  //   linkSite: 'https://seudominio.com/api2',
+  // },
 ];
 
 function Footer() {
